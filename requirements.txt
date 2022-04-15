@@ -35,4 +35,4 @@ sqlparse            ==     0.4.2
 tzdata                ==   2022.1
 uuid                    == 1.30
 Werkzeug              ==   2.1.0
-gunicorn
+gunicorn == 20.1.0
